@@ -150,32 +150,3 @@ img {
     }
 
 }
-@media  screen and (max-width: 480px) {
-    .row{
-        display: flex;
-        flex-direction: column;    
-    }
-    .lessons .col {
-        width: 360px;
-        margin-left: 30px;
-    }
-    h2 {
-        margin-bottom: 2.5rem;
-        font-size: 2rem;
-        color: #fffffe;
-        width: 420px;
-    }
-    .steps .col {
-        width: 230px;
-        margin-left: 30px;
-    }
-
-    .why-us .col-left {
-        width: 290px;
-        margin-left: 30px;
-    }
-
-    .why-us .col-right {
-        width: 435px;
-    }
-}
